@@ -1,0 +1,16 @@
+Version: 1.0
+ProjectId: 8d457f46-27f8-451b-a8db-9507dabcce92
+
+RestoreWorkspace: Default
+SaveWorkspace: Default
+AlwaysSaveHistory: Default
+
+EnableCodeIndexing: Yes
+UseSpacesForTab: Yes
+NumSpacesForTab: 2
+Encoding: UTF-8
+
+RnwWeave: Sweave
+LaTeX: pdfLaTeX
+
+ProjectName: dataAnalysis
